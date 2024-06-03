@@ -20,8 +20,8 @@ samples, guidance on mobile development, and a full API reference.
 ### Home Screen
 ![Home Screen](screenshots/1.png)
 
-### Quiz Screen
+### Add Expense
 ![Quiz Screen](screenshots/2.png)
 
-### Results Screen
+### Date Picker
 ![Results Screen](screenshots/3.png)
